@@ -1,5 +1,12 @@
 # README
 
+# DMM WEBCAMPコンテンツ【アプリケーションを完成させよう2】
+「Meshiterro」というユーザ認証機能を持ったSNSを作成します
+
+## 内容
+ユーザ認証の他、コメントやいいね機能も実装します
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
